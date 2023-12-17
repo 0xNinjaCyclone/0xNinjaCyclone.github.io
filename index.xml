@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0xNinjaCyclone Blog</title>
-    <link>https://ninjacyclone.github.io/</link>
+    <link>https://0xninjacyclone.github.io/</link>
     <description>Recent content on 0xNinjaCyclone Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>elsharifabdallah53@gmail.com (Abdallah Mohamed)</managingEditor>
     <webMaster>elsharifabdallah53@gmail.com (Abdallah Mohamed)</webMaster>
     <lastBuildDate>Wed, 13 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ninjacyclone.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0xninjacyclone.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Exploit development] 2- Stack Memory</title>
-      <link>https://ninjacyclone.github.io/posts/exploitdev_2_stack/</link>
+      <link>https://0xninjacyclone.github.io/posts/exploitdev_2_stack/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
-      <guid>https://ninjacyclone.github.io/posts/exploitdev_2_stack/</guid>
+      <guid>https://0xninjacyclone.github.io/posts/exploitdev_2_stack/</guid>
       <description>Intro Hello everyone, I hope you are doing well. In this article, we will discuss the stack, how it works. and the operations performed on it. Understanding the stack will pave the way for us in the exploit development field and other fields like malware development.&#xA;What is Stack? The stack is a temporary memory that behaves as a first-in-last-out buffer, divided into a group of frames on top of each other.</description>
     </item>
     <item>
       <title>[Exploit development] 1- Intro</title>
-      <link>https://ninjacyclone.github.io/posts/exploitdev_1_intro/</link>
+      <link>https://0xninjacyclone.github.io/posts/exploitdev_1_intro/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
-      <guid>https://ninjacyclone.github.io/posts/exploitdev_1_intro/</guid>
+      <guid>https://0xninjacyclone.github.io/posts/exploitdev_1_intro/</guid>
       <description>Intro Hello everyone, I hope you are doing well, In this article we will cover some subjects like what is exploit development or binary exploitation we will take a step back and cover the meaning of software also, what are the prerequisites to get into this field?&#xA;What is software? Software is a set of instructions, data, or programs used to operate computers and execute specific tasks.&#xA;Any software mainly takes input and do some processing then export output, the input may be taken from the user, or another software, also, the output may be exported to the user or another software to be recycled.</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://ninjacyclone.github.io/about/</link>
+      <link>https://0xninjacyclone.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
-      <guid>https://ninjacyclone.github.io/about/</guid>
+      <guid>https://0xninjacyclone.github.io/about/</guid>
       <description>About me My name is Abdallah Mohamed, studing computer science as a self study&#xA;I&amp;rsquo;m generally interested in cybersecurity, specificaly in offensive part&#xA;Also i really like to read/develop security tools.&#xA;Sec tools i developed WRock is a multi web security purposes tool hellMaker is a backdoors generator with advanced evasions PowerLoad3r is a malicious powershell scripts loader designed to avoid detection and a lot more, you can check out my github.</description>
     </item>
   </channel>

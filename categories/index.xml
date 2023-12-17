@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 0xNinjaCyclone Blog</title>
-    <link>https://ninjacyclone.github.io/categories/</link>
+    <link>https://0xninjacyclone.github.io/categories/</link>
     <description>Recent content in Categories on 0xNinjaCyclone Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>elsharifabdallah53@gmail.com (Abdallah Mohamed)</managingEditor>
     <webMaster>elsharifabdallah53@gmail.com (Abdallah Mohamed)</webMaster>
     <lastBuildDate>Wed, 13 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ninjacyclone.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0xninjacyclone.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>exploitdev</title>
-      <link>https://ninjacyclone.github.io/categories/exploitdev/</link>
+      <link>https://0xninjacyclone.github.io/categories/exploitdev/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
-      <guid>https://ninjacyclone.github.io/categories/exploitdev/</guid>
+      <guid>https://0xninjacyclone.github.io/categories/exploitdev/</guid>
       <description></description>
     </item>
   </channel>
