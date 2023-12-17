@@ -2,12 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ninjacyclone.github.io/</loc>
+    <loc>https://ninjacyclone.github.io/posts/exploitdev_2_stack/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ninjacyclone.github.io/about/</loc>
+    <loc>https://ninjacyclone.github.io/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninjacyclone.github.io/tags/binary-exploitation/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ninjacyclone.github.io/categories/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninjacyclone.github.io/tags/exploit-development/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninjacyclone.github.io/categories/exploitdev/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninjacyclone.github.io/posts/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninjacyclone.github.io/tags/stack/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ninjacyclone.github.io/tags/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninjacyclone.github.io/tags/vulnerability-research/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninjacyclone.github.io/posts/exploitdev_1_intro/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninjacyclone.github.io/about/</loc>
   </url>
 </urlset>
