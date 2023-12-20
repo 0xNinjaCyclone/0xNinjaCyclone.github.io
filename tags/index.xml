@@ -8,20 +8,34 @@
     <language>en-us</language>
     <managingEditor>elsharifabdallah53@gmail.com (Abdallah Mohamed)</managingEditor>
     <webMaster>elsharifabdallah53@gmail.com (Abdallah Mohamed)</webMaster>
-    <lastBuildDate>Wed, 13 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://0xninjacyclone.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>binary-exploitation</title>
       <link>https://0xninjacyclone.github.io/tags/binary-exploitation/</link>
-      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/tags/binary-exploitation/</guid>
       <description></description>
     </item>
     <item>
       <title>exploit-development</title>
       <link>https://0xninjacyclone.github.io/tags/exploit-development/</link>
-      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/tags/exploit-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>heap</title>
+      <link>https://0xninjacyclone.github.io/tags/heap/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
+      <guid>https://0xninjacyclone.github.io/tags/heap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>vulnerability-research</title>
+      <link>https://0xninjacyclone.github.io/tags/vulnerability-research/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
+      <guid>https://0xninjacyclone.github.io/tags/vulnerability-research/</guid>
       <description></description>
     </item>
     <item>
@@ -29,13 +43,6 @@
       <link>https://0xninjacyclone.github.io/tags/stack/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/tags/stack/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>vulnerability-research</title>
-      <link>https://0xninjacyclone.github.io/tags/vulnerability-research/</link>
-      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
-      <guid>https://0xninjacyclone.github.io/tags/vulnerability-research/</guid>
       <description></description>
     </item>
   </channel>
