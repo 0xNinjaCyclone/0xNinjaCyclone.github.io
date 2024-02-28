@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>string-format on 0xNinjaCyclone Blog</title>
+    <link>https://0xninjacyclone.github.io/tags/string-format/</link>
+    <description>Recent content in string-format on 0xNinjaCyclone Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>elsharifabdallah53@gmail.com (Abdallah Mohamed)</managingEditor>
+    <webMaster>elsharifabdallah53@gmail.com (Abdallah Mohamed)</webMaster>
+    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://0xninjacyclone.github.io/tags/string-format/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Exploit development] 7- How to do magic with string format bugs</title>
+      <link>https://0xninjacyclone.github.io/posts/exploitdev_7_strfmt/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
+      <guid>https://0xninjacyclone.github.io/posts/exploitdev_7_strfmt/</guid>
+      <description>Intro Welcome everyone, to the seventh part of the exploit development series. In this article, we will discuss the string format vulnerability and the scientific and programming concepts behind it. This will lead us to answer many questions, such as why it occurs and how to make the most of it and exploit it optimally.&#xA;In the beginning, I would like to say that this type of vulnerabilities has become very rare to occur, but the concepts that you will learn will definitely benefit you, increase your skills as an exploit developer, and improve your way of thinking and methodology.</description>
+    </item>
+  </channel>
+</rss>
