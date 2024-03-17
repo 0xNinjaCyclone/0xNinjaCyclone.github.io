@@ -2,34 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://0xninjacyclone.github.io/posts/exploitdev_8_bor/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xninjacyclone.github.io/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xninjacyclone.github.io/tags/binary-exploitation/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xninjacyclone.github.io/tags/buffer-overread/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xninjacyclone.github.io/categories/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xninjacyclone.github.io/tags/exploit-development/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xninjacyclone.github.io/categories/exploitdev/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xninjacyclone.github.io/posts/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xninjacyclone.github.io/tags/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xninjacyclone.github.io/tags/vulnerability-research/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://0xninjacyclone.github.io/posts/exploitdev_7_strfmt/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://0xninjacyclone.github.io/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://0xninjacyclone.github.io/tags/binary-exploitation/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://0xninjacyclone.github.io/categories/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://0xninjacyclone.github.io/tags/exploit-development/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://0xninjacyclone.github.io/categories/exploitdev/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://0xninjacyclone.github.io/posts/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://0xninjacyclone.github.io/tags/string-format/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://0xninjacyclone.github.io/tags/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://0xninjacyclone.github.io/tags/vulnerability-research/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://0xninjacyclone.github.io/posts/exploitdev_6_elf/</loc>

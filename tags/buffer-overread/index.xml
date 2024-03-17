@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>buffer-overread on 0xNinjaCyclone Blog</title>
+    <link>https://0xninjacyclone.github.io/tags/buffer-overread/</link>
+    <description>Recent content in buffer-overread on 0xNinjaCyclone Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>elsharifabdallah53@gmail.com (Abdallah Mohamed)</managingEditor>
+    <webMaster>elsharifabdallah53@gmail.com (Abdallah Mohamed)</webMaster>
+    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://0xninjacyclone.github.io/tags/buffer-overread/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Exploit development] 8- Buffer Over-Read Attacks and Developing a Real Exploit</title>
+      <link>https://0xninjacyclone.github.io/posts/exploitdev_8_bor/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
+      <guid>https://0xninjacyclone.github.io/posts/exploitdev_8_bor/</guid>
+      <description>Intro Welcome to the eighth part of the series on discovering binary application vulnerabilities and developing appropriate exploits. In the previous part, we talked about string format vulnerabilities and how to exploit them in several ways, including leaking sensitive information from private memory. In this part, we will continue to discuss more attacks of this type. We will discuss how to discover these types of vulnerabilities and exploit them optimally. Also, we will apply it to a famous vulnerability that was discovered before.</description>
+    </item>
+  </channel>
+</rss>
