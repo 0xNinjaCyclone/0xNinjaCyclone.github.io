@@ -4,70 +4,77 @@
     <title>Tags on 0xNinjaCyclone Blog</title>
     <link>https://0xninjacyclone.github.io/tags/</link>
     <description>Recent content in Tags on 0xNinjaCyclone Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>elsharifabdallah53@gmail.com (Abdallah Mohamed)</managingEditor>
     <webMaster>elsharifabdallah53@gmail.com (Abdallah Mohamed)</webMaster>
-    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://0xninjacyclone.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>binary-exploitation</title>
+      <title>Binary-Exploitation</title>
       <link>https://0xninjacyclone.github.io/tags/binary-exploitation/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/tags/binary-exploitation/</guid>
       <description></description>
     </item>
     <item>
-      <title>buffer-overread</title>
+      <title>Buffer-Overflow</title>
+      <link>https://0xninjacyclone.github.io/tags/buffer-overflow/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
+      <guid>https://0xninjacyclone.github.io/tags/buffer-overflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exploit-Development</title>
+      <link>https://0xninjacyclone.github.io/tags/exploit-development/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
+      <guid>https://0xninjacyclone.github.io/tags/exploit-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vulnerability-Research</title>
+      <link>https://0xninjacyclone.github.io/tags/vulnerability-research/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
+      <guid>https://0xninjacyclone.github.io/tags/vulnerability-research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Buffer-Overread</title>
       <link>https://0xninjacyclone.github.io/tags/buffer-overread/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/tags/buffer-overread/</guid>
       <description></description>
     </item>
     <item>
-      <title>exploit-development</title>
-      <link>https://0xninjacyclone.github.io/tags/exploit-development/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
-      <guid>https://0xninjacyclone.github.io/tags/exploit-development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>vulnerability-research</title>
-      <link>https://0xninjacyclone.github.io/tags/vulnerability-research/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
-      <guid>https://0xninjacyclone.github.io/tags/vulnerability-research/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>string-format</title>
+      <title>String-Format</title>
       <link>https://0xninjacyclone.github.io/tags/string-format/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/tags/string-format/</guid>
       <description></description>
     </item>
     <item>
-      <title>binary-file</title>
+      <title>Binary-File</title>
       <link>https://0xninjacyclone.github.io/tags/binary-file/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/tags/binary-file/</guid>
       <description></description>
     </item>
     <item>
-      <title>pe</title>
+      <title>Pe</title>
       <link>https://0xninjacyclone.github.io/tags/pe/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/tags/pe/</guid>
       <description></description>
     </item>
     <item>
-      <title>heap</title>
+      <title>Heap</title>
       <link>https://0xninjacyclone.github.io/tags/heap/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/tags/heap/</guid>
       <description></description>
     </item>
     <item>
-      <title>stack</title>
+      <title>Stack</title>
       <link>https://0xninjacyclone.github.io/tags/stack/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/tags/stack/</guid>

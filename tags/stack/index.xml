@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>stack on 0xNinjaCyclone Blog</title>
+    <title>Stack on 0xNinjaCyclone Blog</title>
     <link>https://0xninjacyclone.github.io/tags/stack/</link>
-    <description>Recent content in stack on 0xNinjaCyclone Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Stack on 0xNinjaCyclone Blog</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>elsharifabdallah53@gmail.com (Abdallah Mohamed)</managingEditor>
     <webMaster>elsharifabdallah53@gmail.com (Abdallah Mohamed)</webMaster>
@@ -15,7 +15,7 @@
       <link>https://0xninjacyclone.github.io/posts/exploitdev_2_stack/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_2_stack/</guid>
-      <description>Intro Hello everyone, I hope you are well. In this article, we will discuss the stack, why any computer program needs it, what vital role it plays, and how it works in detail. We will explore the operations performed on the stack and how they are handled. Understanding the stack will pave the way for us in the exploit development field and other fields like reverse engineering and malware development.</description>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Hello everyone, I hope you are well. In this article, we will discuss the stack, why any computer program needs it, what vital role it plays, and how it works in detail. We will explore the operations performed on the stack and how they are handled. Understanding the stack will pave the way for us in the exploit development field and other fields like reverse engineering and malware development.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>buffer-overread on 0xNinjaCyclone Blog</title>
+    <title>Buffer-Overread on 0xNinjaCyclone Blog</title>
     <link>https://0xninjacyclone.github.io/tags/buffer-overread/</link>
-    <description>Recent content in buffer-overread on 0xNinjaCyclone Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Buffer-Overread on 0xNinjaCyclone Blog</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>elsharifabdallah53@gmail.com (Abdallah Mohamed)</managingEditor>
     <webMaster>elsharifabdallah53@gmail.com (Abdallah Mohamed)</webMaster>
@@ -15,7 +15,7 @@
       <link>https://0xninjacyclone.github.io/posts/exploitdev_8_bor/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_8_bor/</guid>
-      <description>Intro Welcome to the eighth part of the series on discovering binary application vulnerabilities and developing appropriate exploits. In the previous part, we talked about string format vulnerabilities and how to exploit them in several ways, including leaking sensitive information from private memory. In this part, we will continue to discuss more attacks of this type. We will discuss how to discover these types of vulnerabilities and exploit them optimally. Also, we will apply it to a famous vulnerability that was discovered before.</description>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to the eighth part of the series on discovering binary application vulnerabilities and developing appropriate exploits. In the previous part, we talked about string format vulnerabilities and how to exploit them in several ways, including leaking sensitive information from private memory. In this part, we will continue to discuss more attacks of this type. We will discuss how to discover these types of vulnerabilities and exploit them optimally. Also, we will apply it to a famous vulnerability that was discovered before. We will analyze it well, and understand its nature and the reason for its occurrence. Based on that, we will develop an exploit to carry out the attack. We will test this exploit in a lab dedicated to applying the attack to it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
