@@ -11,7 +11,7 @@
     <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://0xninjacyclone.github.io/tags/buffer-overflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Exploit development] 9- Crashing the Stack: A Real-World Guide to Buffer Overflow Exploits</title>
+      <title>[Exploit development] 09- Crashing the Stack: A Real-World Guide to Buffer Overflow Exploits</title>
       <link>https://0xninjacyclone.github.io/posts/exploitdev_9_bof/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_9_bof/</guid>

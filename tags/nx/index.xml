@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NX on 0xNinjaCyclone Blog</title>
+    <link>https://0xninjacyclone.github.io/tags/nx/</link>
+    <description>Recent content in NX on 0xNinjaCyclone Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>elsharifabdallah53@gmail.com (Abdallah Mohamed)</managingEditor>
+    <webMaster>elsharifabdallah53@gmail.com (Abdallah Mohamed)</webMaster>
+    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://0xninjacyclone.github.io/tags/nx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Exploit development] 0A- Dancing with Memory Guards: Breaking Canaries/Cookies, DEP/NX, and ASLR</title>
+      <link>https://0xninjacyclone.github.io/posts/exploitdev_a_mitigations/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
+      <guid>https://0xninjacyclone.github.io/posts/exploitdev_a_mitigations/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://0xninjacyclone.github.io/posts/exploitdev_9_bof/&#34;&gt;In the previous post&lt;/a&gt;, we discussed stack-based buffer overflow vulnerabilities in depth from several aspects, such as the methods used to discover this type of vulnerability. We also touched on fuzzing and how we can benefit from it. We also talked about strategies for exploiting this type of vulnerability based on the nature of the targeted program and its working mechanisms. We also discussed methods of protection and defense against this type of vulnerability, and we explained some common mistakes that may lead to bypassing these defenses. You must read it to understand this post, as we will build on what was mentioned there.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

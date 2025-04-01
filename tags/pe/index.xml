@@ -11,21 +11,21 @@
     <lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://0xninjacyclone.github.io/tags/pe/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Exploit development] 6- Dealing with ELF files programmatically</title>
+      <title>[Exploit development] 06- Dealing with ELF files programmatically</title>
       <link>https://0xninjacyclone.github.io/posts/exploitdev_6_elf/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_6_elf/</guid>
       <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to our third part in the exploration of executable binary files. This article delves into the structure of ELF files, exploring the critical information they contain and how to programmatically interact with them. As previously mentioned, while the PE format is vital for cybersecurity specialists, especially the specializations emerging from reverse engineering, our focus here is on comprehending the ELF format which is also important. First, you had better read &lt;a href=&#34;https://0xninjacyclone.github.io/posts/exploitdev_4_binfiles/&#34;&gt;the first part&lt;/a&gt;, which is an important theoretical overview of executable binary files, then read &lt;a href=&#34;https://0xninjacyclone.github.io/posts/exploitdev_5_winpe/&#34;&gt;the second part&lt;/a&gt;, which offers a practical in-depth exploration of Windows PE files, and a lot of base concepts we&amp;rsquo;re gonna use have been explained in that part.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>[Exploit development] 5- Dealing with Windows PE files programmatically</title>
+      <title>[Exploit development] 05- Dealing with Windows PE files programmatically</title>
       <link>https://0xninjacyclone.github.io/posts/exploitdev_5_winpe/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_5_winpe/</guid>
       <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to our in-depth exploration of Windows PE files. Understanding the PE format is crucial for cybersecurity professionals, as it provides insight into the architecture and functioning of Windows executables. In this article, we delve into parsing PE files programmatically, a skill essential for analyzing and exploiting software vulnerabilities. Although we won&amp;rsquo;t examine every detail of the PE format, we&amp;rsquo;ll focus on the most pertinent aspects that are essential for cybersecurity experts. For foundational knowledge, I recommend reading &lt;a href=&#34;https://0xninjacyclone.github.io/posts/exploitdev_4_binfiles/&#34;&gt;the previous part&lt;/a&gt;, which offers a theoretical overview of PE files, their structure, and key concepts related to this topic. Let&amp;rsquo;s embark on this technical journey to enhance our understanding and skills in handling Windows PE files.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>[Exploit development] 4- Understanding Binary Files</title>
+      <title>[Exploit development] 04- Understanding Binary Files</title>
       <link>https://0xninjacyclone.github.io/posts/exploitdev_4_binfiles/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_4_binfiles/</guid>

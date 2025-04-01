@@ -8,66 +8,73 @@
     <language>en-us</language>
     <managingEditor>elsharifabdallah53@gmail.com (Abdallah Mohamed)</managingEditor>
     <webMaster>elsharifabdallah53@gmail.com (Abdallah Mohamed)</webMaster>
-    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://0xninjacyclone.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Exploit development] 9- Crashing the Stack: A Real-World Guide to Buffer Overflow Exploits</title>
+      <title>[Exploit development] 0A- Dancing with Memory Guards: Breaking Canaries/Cookies, DEP/NX, and ASLR</title>
+      <link>https://0xninjacyclone.github.io/posts/exploitdev_a_mitigations/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
+      <guid>https://0xninjacyclone.github.io/posts/exploitdev_a_mitigations/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://0xninjacyclone.github.io/posts/exploitdev_9_bof/&#34;&gt;In the previous post&lt;/a&gt;, we discussed stack-based buffer overflow vulnerabilities in depth from several aspects, such as the methods used to discover this type of vulnerability. We also touched on fuzzing and how we can benefit from it. We also talked about strategies for exploiting this type of vulnerability based on the nature of the targeted program and its working mechanisms. We also discussed methods of protection and defense against this type of vulnerability, and we explained some common mistakes that may lead to bypassing these defenses. You must read it to understand this post, as we will build on what was mentioned there.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Exploit development] 09- Crashing the Stack: A Real-World Guide to Buffer Overflow Exploits</title>
       <link>https://0xninjacyclone.github.io/posts/exploitdev_9_bof/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_9_bof/</guid>
       <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Hi folks, here we are again after a hiatus of months or nearly a year. I hope you are all well. This is the most interesting part of the exploitation series, where we will discuss the most famous type of memory corruption bugs: Stack-based buffer overflow. With an explanation of various examples of the vulnerability, why it occurs in the first place, and how it can be exploited in different scenarios depending on the nature of the target, and also addressing more advanced topics such as whether high-level languages ​​that have an automatic memory management system are completely safe against this type of vulnerabilities or not.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>[Exploit development] 8- Buffer Over-Read Attacks and Developing a Real Exploit</title>
+      <title>[Exploit development] 08- Buffer Over-Read Attacks and Developing a Real Exploit</title>
       <link>https://0xninjacyclone.github.io/posts/exploitdev_8_bor/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_8_bor/</guid>
       <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to the eighth part of the series on discovering binary application vulnerabilities and developing appropriate exploits. In the previous part, we talked about string format vulnerabilities and how to exploit them in several ways, including leaking sensitive information from private memory. In this part, we will continue to discuss more attacks of this type. We will discuss how to discover these types of vulnerabilities and exploit them optimally. Also, we will apply it to a famous vulnerability that was discovered before. We will analyze it well, and understand its nature and the reason for its occurrence. Based on that, we will develop an exploit to carry out the attack. We will test this exploit in a lab dedicated to applying the attack to it.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>[Exploit development] 7- How to do magic with string format bugs</title>
+      <title>[Exploit development] 07- How to do magic with string format bugs</title>
       <link>https://0xninjacyclone.github.io/posts/exploitdev_7_strfmt/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_7_strfmt/</guid>
       <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Welcome everyone, to the seventh part of the exploit development series. In this article, we will discuss the string format vulnerability and the scientific and programming concepts behind it. This will lead us to answer many questions, such as why it occurs and how to make the most of it and exploit it optimally.&lt;/p&gt;&#xA;&lt;p&gt;In the beginning, I would like to say that this type of vulnerabilities has become very rare to occur, but the concepts that you will learn will definitely benefit you, increase your skills as an exploit developer, and improve your way of thinking and methodology.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>[Exploit development] 6- Dealing with ELF files programmatically</title>
+      <title>[Exploit development] 06- Dealing with ELF files programmatically</title>
       <link>https://0xninjacyclone.github.io/posts/exploitdev_6_elf/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_6_elf/</guid>
       <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to our third part in the exploration of executable binary files. This article delves into the structure of ELF files, exploring the critical information they contain and how to programmatically interact with them. As previously mentioned, while the PE format is vital for cybersecurity specialists, especially the specializations emerging from reverse engineering, our focus here is on comprehending the ELF format which is also important. First, you had better read &lt;a href=&#34;https://0xninjacyclone.github.io/posts/exploitdev_4_binfiles/&#34;&gt;the first part&lt;/a&gt;, which is an important theoretical overview of executable binary files, then read &lt;a href=&#34;https://0xninjacyclone.github.io/posts/exploitdev_5_winpe/&#34;&gt;the second part&lt;/a&gt;, which offers a practical in-depth exploration of Windows PE files, and a lot of base concepts we&amp;rsquo;re gonna use have been explained in that part.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>[Exploit development] 5- Dealing with Windows PE files programmatically</title>
+      <title>[Exploit development] 05- Dealing with Windows PE files programmatically</title>
       <link>https://0xninjacyclone.github.io/posts/exploitdev_5_winpe/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_5_winpe/</guid>
       <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to our in-depth exploration of Windows PE files. Understanding the PE format is crucial for cybersecurity professionals, as it provides insight into the architecture and functioning of Windows executables. In this article, we delve into parsing PE files programmatically, a skill essential for analyzing and exploiting software vulnerabilities. Although we won&amp;rsquo;t examine every detail of the PE format, we&amp;rsquo;ll focus on the most pertinent aspects that are essential for cybersecurity experts. For foundational knowledge, I recommend reading &lt;a href=&#34;https://0xninjacyclone.github.io/posts/exploitdev_4_binfiles/&#34;&gt;the previous part&lt;/a&gt;, which offers a theoretical overview of PE files, their structure, and key concepts related to this topic. Let&amp;rsquo;s embark on this technical journey to enhance our understanding and skills in handling Windows PE files.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>[Exploit development] 4- Understanding Binary Files</title>
+      <title>[Exploit development] 04- Understanding Binary Files</title>
       <link>https://0xninjacyclone.github.io/posts/exploitdev_4_binfiles/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_4_binfiles/</guid>
       <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Hello everyone, I hope you&amp;rsquo;re all well. In this article, we&amp;rsquo;re going to talk about binary files. We&amp;rsquo;ll look at how they are built, what they contain, their structure, and the information contained within each part. the importance of this information,  the role of each piece of information, and how we can read and understand it using specialized tools. Understanding the architecture of binary files is vital for reverse engineering and the process of debugging and analyzing the software to determine what it does so you can break it. Also, this is very important for developing custom shellcodes as we&amp;rsquo;ll see in the upcoming articles.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>[Exploit development] 3- Understanding Heap Memory</title>
+      <title>[Exploit development] 03- Understanding Heap Memory</title>
       <link>https://0xninjacyclone.github.io/posts/exploitdev_3_heap/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_3_heap/</guid>
       <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Hello everyone, hope you&amp;rsquo;re all well. In this article, we&amp;rsquo;re going to talk about heap memory. We&amp;rsquo;ll look at what it is, how it works, and why software uses it. I&amp;rsquo;ll explain the heap&amp;rsquo;s special functions (APIs) and what happens in the background when software uses these functions. Let&amp;rsquo;s get started and learn more about heap memory!&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-heap&#34;&gt;What is Heap?&lt;/h2&gt;&#xA;&lt;p&gt;The heap is a contiguous large region of memory that is subdivided into chunks to be dynamically allocated and deallocated at run time as needed. Each chunk in the heap contains not only the data for which memory has been allocated, but also includes additional metadata that guides the operating system in handling it.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>[Exploit development] 2- Understanding Stack Memory</title>
+      <title>[Exploit development] 02- Understanding Stack Memory</title>
       <link>https://0xninjacyclone.github.io/posts/exploitdev_2_stack/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_2_stack/</guid>
       <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Hello everyone, I hope you are well. In this article, we will discuss the stack, why any computer program needs it, what vital role it plays, and how it works in detail. We will explore the operations performed on the stack and how they are handled. Understanding the stack will pave the way for us in the exploit development field and other fields like reverse engineering and malware development.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>[Exploit development] 1- Intro</title>
+      <title>[Exploit development] 01- Intro</title>
       <link>https://0xninjacyclone.github.io/posts/exploitdev_1_intro/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate><author>elsharifabdallah53@gmail.com (Abdallah Mohamed)</author>
       <guid>https://0xninjacyclone.github.io/posts/exploitdev_1_intro/</guid>
